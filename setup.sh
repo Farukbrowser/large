@@ -19,25 +19,25 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-wisnuvpn="raw.githubusercontent.com/farukbrowser/large/sae/ssh"
+wisnuvpn="raw.githubusercontent.com/Farukbrowser/large/main/ssh"
 # Link Hosting Kalian Untuk Sstp
-wisnuvpnn="raw.githubusercontent.com/farukbrowser/large/sae/sstp"
+wisnuvpnn="raw.githubusercontent.com/Farukbrowser/large/main/sstp"
 # Link Hosting Kalian Untuk Ssr
-wisnuvpnnn="raw.githubusercontent.com/farukbrowser/large/sae/ssr"
+wisnuvpnnn="raw.githubusercontent.com/Farukbrowser/large/main/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-wisnuvpnnnn="raw.githubusercontent.com/farukbrowser/large/sae/shadowsocks"
+wisnuvpnnnn="raw.githubusercontent.com/Farukbrowser/large/main/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-wisnuvpnnnnn="raw.githubusercontent.com/farukbrowser/large/sae/wireguard"
+wisnuvpnnnnn="raw.githubusercontent.com/Farukbrowser/large/main/wireguard"
 # Link Hosting Kalian Untuk Xray
-wisnuvpnnnnnn="raw.githubusercontent.com/farukbrowser/large/sae/xray"
+wisnuvpnnnnnn="raw.githubusercontent.com/Farukbrowser/large/main/xray"
 # Link Hosting Kalian Untuk Ipsec
-wisnuvpnnnnnnn="raw.githubusercontent.com/farukbrowser/large/sae/ipsec"
+wisnuvpnnnnnnn="raw.githubusercontent.com/Farukbrowser/large/main/ipsec"
 # Link Hosting Kalian Untuk Backup
-wisnuvpnnnnnnnn="raw.githubusercontent.com/farukbrowser/large/sae/backup"
+wisnuvpnnnnnnnn="raw.githubusercontent.com/Farukbrowser/large/main/backup"
 # Link Hosting Kalian Untuk Websocket
-wisnuvpnnnnnnnnn="raw.githubusercontent.com/farukbrowser/large/sae/websocket"
+wisnuvpnnnnnnnnn="raw.githubusercontent.com/Farukbrowser/large/main/websocket"
 # Link Hosting Kalian Untuk Ohp
-wisnuvpnnnnnnnnnn="raw.githubusercontent.com/farukbrowser/large/sae/ohp"
+wisnuvpnnnnnnnnnn="raw.githubusercontent.com/Farukbrowser/large/main/ohp"
 
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
